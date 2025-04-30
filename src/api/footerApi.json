@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Narela, Delhi"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+91 954-0591-815"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "jainmanav180@gmail.com"
+    }
+  ]
