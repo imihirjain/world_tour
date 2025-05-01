@@ -30,10 +30,10 @@ export const CountryInfo = () => {
 
   return (
     <>
-      <div className="flex flex-wrap lg:flex-nowrap lg:px-50 p-10 justify-between font-outfit items-center gap-6 bg-black">
+      <div className="flex lg:flex-nowrap lg:px-50 p-10 justify-between font-outfit items-center gap-6 bg-black">
         {country && (
           <>
-            <div className="flex gap-10 border-2 bg-[#202020] p-10 ">
+            <div className="flex flex-wrap mt-24 lg:flex-nowrap gap-10 border-2 bg-[#202020] p-10 ">
               <div>
                 <img
                   src={country.flags.svg}
